@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # generator-bebop [![Build Status](https://secure.travis-ci.org/sergiovilar/generator-bebop.png?branch=master)](https://travis-ci.org/sergiovilar/generator-bebop)
 
 A generator for [Yeoman](http://yeoman.io).
@@ -45,3 +46,9 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+=======
+generator-bebop
+===============
+
+A Yeoman generator for Bebop
+>>>>>>> 85febd388349da8036ff531986ad0b929f6e44c4
