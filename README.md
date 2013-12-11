@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # generator-bebop [![Build Status](https://secure.travis-ci.org/sergiovilar/generator-bebop.png?branch=master)](https://travis-ci.org/sergiovilar/generator-bebop)
 
-A generator for [Yeoman](http://yeoman.io).
+A [Bebop](https://github.com/arthurgouveia/bebop) generator for [Yeoman](http://yeoman.io).
 
 
 ## Getting Started
@@ -19,6 +18,12 @@ Not every new computer comes with a Yeoman pre-installed. He lives in the [npm](
 ```
 $ npm install -g yo
 ```
+
+### What is Bebop?
+
+<img align="right" height="160" src="http://bebop.bracketarmy.com/bebop.svg">
+
+Bebop is a HTML5 and CSS3 boilerplate built on top of [HTML5 Boilerplate](http://html5boilerplate.com/) with the aid of [Compass](http://compass-style.org) and [Grunt](http://gruntjs.com/) to kickstart and optimize the dev flow of simple websites and apps. It also brings together concerns about semantics and accessibility, so there's a simple yet helpful index file with a few WAI-ARIA roles and markup to help you start learning.
 
 ### Yeoman Generators
 
@@ -46,9 +51,3 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
-=======
-generator-bebop
-===============
-
-A Yeoman generator for Bebop
->>>>>>> 85febd388349da8036ff531986ad0b929f6e44c4
