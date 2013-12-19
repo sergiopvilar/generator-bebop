@@ -19,7 +19,7 @@ Not every new computer comes with a Yeoman pre-installed. He lives in the [npm](
 $ npm install -g yo
 ```
 
-### What is Bebop?
+### What is [Bebop](https://github.com/arthurgouveia/bebop)?
 
 <img align="right" height="160" src="http://bebop.bracketarmy.com/bebop.svg">
 
