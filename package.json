@@ -1,41 +1,46 @@
 {
-  "name": "generator-bebop",
-  "version": "0.1.0",
-  "description": "A Yeoman generator for Bebop",
-  "keywords": [
-    "yeoman-generator"
-  ],
-  "homepage": "https://github.com/sergiovilar/generator-bebop",
-  "bugs": "https://github.com/sergiovilar/generator-bebop/issues",
-  "author": {
-    "name": "Sérgio Vilar",
-    "email": "sergiovilar.r@gmail.com",
-    "url": "https://github.com/sergiovilar"
-  },
-  "main": "app/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/sergiovilar/generator-bebop.git"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
-  "dependencies": {
-    "yeoman-generator": "~0.14.0"
-  },
-  "devDependencies": {
-    "mocha": "~1.14.0"
-  },
-  "peerDependencies": {
-    "yo": ">=1.0.0"
-  },
-  "engines": {
-    "node": ">=0.8.0",
-    "npm": ">=1.2.10"
-  },
-  "licenses": [
-    {
-      "type": "MIT"
-    }
-  ]
+    "name": "generator-bebop",
+    "version": "0.1.0",
+    "description": "A Yeoman generator for Bebop",
+    "keywords": [
+        "yeoman-generator"
+    ],
+    "homepage": "https://github.com/sergiovilar/generator-bebop",
+    "bugs": "https://github.com/sergiovilar/generator-bebop/issues",
+    "author": {
+        "name": "Sérgio Vilar",
+        "email": "sergiovilar.r@gmail.com",
+        "url": "https://github.com/sergiovilar"
+    },
+    "main": "app/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/sergiovilar/generator-bebop.git"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "dependencies": {
+        "yeoman-generator": "~0.14.0"
+    },
+    "devDependencies": {
+        "mocha": "~1.14.0",
+        "grunt": "~0.4.2",
+        "grunt-mocha-test": "~0.8.1",
+        "grunt-contrib-clean": "~0.5.0",
+        "grunt-contrib-jshint": "~0.7.2",
+        "load-grunt-tasks": "~0.2.0"
+    },
+    "peerDependencies": {
+        "yo": ">=1.0.0"
+    },
+    "engines": {
+        "node": ">=0.8.0",
+        "npm": ">=1.2.10"
+    },
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ]
 }
